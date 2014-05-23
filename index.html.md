@@ -9,7 +9,7 @@
 <title>
 ##abgilpqt+ at freenode
 </title>
-<!--<link rel="stylesheet" type="text/css" href="css.css" />-->
+<link rel="stylesheet" type="text/css" href="css.css" />
 </head>
 <body>
 
