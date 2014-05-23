@@ -38,6 +38,8 @@ Oh and **ABGILPQT+ means `A*`, `Bi*`, Gays. Intersex, Lesbians, `Pan*`, Queers, 
 In case there is an channel emergency (abusive user, spammer…, there are 
 several ways to get help.
 
+* PM or highlight someone who is on the access list which you can see with 
+`/msg ChanServ access ##abgilpqt+ list`.
 * `/msg Limnoria channel alert ##abgilpqt+ <the issue>`
     * Do note that all ops might not be identified to Limnoria.
 * `/msg MemoServ sendops ##abgilpqt+ <the issue>`
