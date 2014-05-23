@@ -53,6 +53,12 @@ them what the issue is.
 You might be asked to tell yourself about a little, but you don't have to 
 tell us anything you don't want to.
 
+* Mark NSFW and possibly Triggering links with `[NSFW]` or `[TW]` or 
+[TRIGGER WARNING]`.
+
+
+<hr/>
+Do you notice something wrong with these guidelines? [Send us a pull request!](https://github.com/abgilpqt/abgilpqt.github.io/blob/master/README.md)
 </body>
 </html>
 <!-- vim : set ft=markdown-->
