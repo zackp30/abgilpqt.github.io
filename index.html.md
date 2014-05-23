@@ -7,7 +7,7 @@
 <meta name="author" content="##abgilpqt+ ops" />
 <link rel="canonical" href="https://abgilpqt.github.io/">
 <title>
-##abgilpqt+ at freenode
+abgilpqt+ at freenode
 </title>
 <link rel="stylesheet" type="text/css" href="css.css" />
 </head>
