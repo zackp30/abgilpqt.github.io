@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8" />
 <!-- <meta http-equiv="refresh" content="60" /> -->
-<meta name="description" content="Code of Conduct and guidelines of ##abgilpqt+ at freenode" />
-<meta name="author" content="##abgilpqt+ ops" />
+<meta name="description" content="Code of Conduct and guidelines of \##abgilpqt+ at freenode" />
+<meta name="author" content="\##abgilpqt+ ops" />
 <link rel="canonical" href="https://abgilpqt.github.io/">
 <title>
-abgilpqt+ at freenode
+\#\#abgilpqt+ at freenode
 </title>
 <link rel="stylesheet" type="text/css" href="css.css" />
 </head>
@@ -19,7 +19,7 @@ Everyone is welcome as long as they are respectful. This includes also
 non-ABGILPQT+ people in case they want to help or have friend or relative 
 who is ABGILPQT+ etc.
 
-Oh and **ABGILPQT+ means `A*`, `Bi*`, Gays. Intersex, Lesbians, `Pan*`, Queers, `Trans*` and everyone else.**
+Oh and **ABGILPQT+ means A\*, Bi\*, Gays. Intersex, Lesbians, Pan\*, Queers, Trans\* and everyone else.**
 
 ## Be respectful
 
