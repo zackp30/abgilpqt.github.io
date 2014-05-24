@@ -58,10 +58,7 @@ tell us anything you don't want to.
 
 
 <hr/>
-Do you notice something wrong with these guidelines? [Send us a pull request!](https://github.com/abgilpqt/abgilpqt.github.io/blob/master/README.md)
+Do you notice something wrong with these guidelines? [Send us a pull request!](https://github.com/abgilpqt/abgilpqt.github.io/blob/master/index.html.md)
 </body>
 </html>
 <!-- vim : set ft=markdown-->
-
-
-
