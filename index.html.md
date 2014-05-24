@@ -54,7 +54,7 @@ You might be asked to tell yourself about a little, but you don't have to
 tell us anything you don't want to.
 
 * Mark NSFW and possibly Triggering links with `[NSFW]` or `[TW]` or 
-[TRIGGER WARNING]`.
+`[TRIGGER WARNING]`.
 
 
 <hr/>
