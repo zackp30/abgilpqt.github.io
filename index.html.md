@@ -32,6 +32,10 @@ Oh and **ABGILPQT+ means A\*, Bi\*, Gays. Intersex, Lesbians, Pan\*, Queers, Tra
 * Do not be racist, albeist, anti-ABGILPQT+, classist, racist, sexist, …
     * In case you don't agree with this, please leave this channel and 
     [freenode until you agree their policies too.](http://freenode.net/policy.shtml#offtopic).
+* Don't log this channel publicly. 
+* Please do not bring your own bots without permission.
+    * `Limnoria` is used for channel management and `horo` (which actually 
+    is normal irssi with LastFM script) have permission.
 
 ## Getting help
 
