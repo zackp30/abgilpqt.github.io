@@ -4,6 +4,7 @@
 <meta charset="UTF-8" />
 <!-- <meta http-equiv="refresh" content="60" /> -->
 <meta name="description" content="Code of Conduct and guidelines of \##abgilpqt+ at freenode" />
+<meta name="keywords" content="A\* Bi\* Gay Gays Intersex Lesbian Lesbians Pan\* Queer Trans\* IRC freenode LGBTIQ ABGILPQT ABGILPQT+ LGBTIQ+" />
 <meta name="author" content="\##abgilpqt+ ops" />
 <link rel="canonical" href="https://abgilpqt.github.io/">
 <title>
