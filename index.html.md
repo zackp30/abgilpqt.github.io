@@ -45,6 +45,7 @@ several ways to get help.
 * `/msg Limnoria channel alert ##abgilpqt+ <the issue>`
     * Do note that all ops might not be identified to Limnoria.
 * `/msg MemoServ sendops ##abgilpqt+ <the issue>`
+    * Note that this command requires you to be identified with NickServ!
 * Go to #freenode and tell that there is an issue at ##abgilpqt+ and tell 
 them what the issue is.
     * `*!*@freenode/staff/*` has the op flags, so they are authorized to 
