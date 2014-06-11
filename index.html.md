@@ -14,7 +14,7 @@
 </head>
 <body>
 
-Welcome. These are the guidelines of [\#\#abgilpqt+ at freenode](http://webchat.freenode.net/?channels=%23%23abgilpqt+).
+Welcome. These are the guidelines of [\#\#abgilpqt+ at freenode](ircs://chat.freenode.net:6697/##abgilpqt+).
 
 Everyone is welcome as long as they are respectful. This includes also 
 non-ABGILPQT+ people in case they want to help or have friend or relative 
@@ -64,6 +64,12 @@ tell us anything you don't want to.
 
 <hr/>
 Do you notice something wrong with these guidelines? [Send us a pull request!](https://github.com/abgilpqt/abgilpqt.github.io/blob/master/index.html.md)
+<hr/>
+
+## Webchat
+
+<iframe src="https://kiwiirc.com/client/chat.freenode.net:+6697/##abgilpqt+" style="border:0; width:100%; height:450px;"></iframe>
+
 <hr/>
 </body>
 </html>
