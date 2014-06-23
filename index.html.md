@@ -62,14 +62,10 @@ tell us anything you don't want to.
     * `Limnoria` is used for channel management and `horo` (which actually 
     is normal irssi with LastFM script) have permission.
 
+[![Visit our IRC channel](https://kiwiirc.com/buttons/chat.freenode.net/%23abgilpqt%2B.png)](https://kiwiirc.com/client/chat.freenode.net:+6697/##abgilpqt+)
+
 <hr/>
 Do you notice something wrong with these guidelines? [Send us a pull request!](https://github.com/abgilpqt/abgilpqt.github.io/blob/master/index.html.md)
-<hr/>
-
-## Webchat
-
-<iframe src="https://kiwiirc.com/client/chat.freenode.net:+6697/##abgilpqt+" style="border:0; width:100%; height:450px;"></iframe>
-
 <hr/>
 </body>
 </html>
