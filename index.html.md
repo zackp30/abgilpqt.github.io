@@ -26,6 +26,7 @@ Oh and **ABGILPQT+ means A\*, Bi\*, Gays. Intersex, Lesbians, Pan\*, Queers, Tra
 
 * Please don't misgender people.
     * If you don't know what pronouns to use, please use [gender neutral ones.](http://en.wikipedia.org/wiki/Gender-specific_and_gender-neutral_pronouns#Alternatives_to_generic_he)
+    * See also [our pronouns.](https://etherpad.fr/p/pronouns_abgilpqt+)
     * This also includes words like "guy", "man", "bro" and others like them.
     * But according to DICTIONARY they are gender neutral.
         * Are masculinity and being male gender neutral and default for 
