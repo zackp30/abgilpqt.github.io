@@ -20,7 +20,7 @@ Everyone is welcome as long as they are respectful. This includes also
 non-ABGILPQT+ people in case they want to help or have friend or relative 
 who is ABGILPQT+ etc.
 
-Oh and **ABGILPQT+ means A\*, Bi\*, Gays. Intersex, Lesbians, Pan\*, Queers, Trans\* and everyone else.**
+Oh and **ABGILPQT+ means A\*, Bi\*, Gays, Intersex, Lesbians, Pan\*, Queers, Trans\* and everyone else.**
 
 ## Be respectful
 
