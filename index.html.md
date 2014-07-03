@@ -30,7 +30,7 @@ Oh and **ABGILPQT+ means A\*, Bi\*, Gays. Intersex, Lesbians, Pan\*, Queers, Tra
     * But according to DICTIONARY they are gender neutral.
         * Are masculinity and being male gender neutral and default for 
         everyone?
-* Do not be racist, albeist, anti-ABGILPQT+, classist, racist, sexist, …
+* Do not be racist, albeist, anti-ABGILPQT+, classist, sexist, …
     * In case you don't agree with this, please leave this channel and 
     [freenode until you agree their policies too.](http://freenode.net/policy.shtml#offtopic)
 * Don't log this channel publicly. 
