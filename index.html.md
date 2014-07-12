@@ -41,12 +41,13 @@ Oh and **ABGILPQT+ means A\*, Bi\*, Gays, Intersex, Lesbians, Pan\*, Queers, Tra
 In case there is an channel emergency (abusive user, spammer…, there are 
 several ways to get help.
 
-* PM or highlight someone who is on the access list which you can see with 
-`/msg ChanServ access ##abgilpqt+ list`.
+* PM or highlight someone who is opped or on the access list which you 
+can see with `/msg ChanServ access ##abgilpqt+ list`.
 * `/msg Limnoria channel alert ##abgilpqt+ <the issue>`
     * Do note that all ops might not be identified to Limnoria.
 * `/msg MemoServ sendops ##abgilpqt+ <the issue>`
     * Note that this command requires you to be identified with NickServ!
+* Just say `halp` or `/msg HalpBot halp ##abgilpqt+`.
 * Go to #freenode and tell that there is an issue at ##abgilpqt+ and tell 
 them what the issue is.
     * `*!*@freenode/staff/*` has the op flags, so they are authorized to 
@@ -60,8 +61,10 @@ tell us anything you don't want to.
 * Mark NSFW and possibly Triggering links with `[NSFW]` or `[TW]` or 
 `[TRIGGER WARNING]`.
 * Please do not bring your own bots without permission.
-    * `Limnoria` is used for channel management and `horo` (which actually 
-    is normal irssi with LastFM script) have permission.
+    * `Limnoria` is used for channel management, `horo` (which actually 
+    is normal irssi with LastFM script) and `HalpBot` (op alert bot) 
+    have permission.
+* People who are here often around a week and talk are voiced.
 
 [![Visit our IRC channel](https://kiwiirc.com/buttons/chat.freenode.net/%23abgilpqt%2B.png)](https://kiwiirc.com/client/chat.freenode.net:+6697/##abgilpqt+)
 
