@@ -66,6 +66,7 @@ tell us anything you don't want to.
     is normal irssi with LastFM script) and `HalpBot` (op alert bot) 
     have permission.
 * People who are here often around a week and talk are voiced.
+    * [Please also register your nick so we can voice you!](https://freenode.net/faq.shtml#userregistration)
 
 * * * * *
 
