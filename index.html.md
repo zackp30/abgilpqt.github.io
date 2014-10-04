@@ -28,17 +28,17 @@ Oh and **ABGILPQT+ means Aces, Bi\*, Gays, Intersex, Lesbians, Pan\*, Queers, Tr
     * If you don't know what pronouns to use, please use [gender neutral ones.](http://en.wikipedia.org/wiki/Gender-specific_and_gender-neutral_pronouns#Alternatives_to_generic_he)
     * See also [our pronouns.](https://etherpad.fr/p/pronouns_abgilpqt+)
     * This also includes words like "guy", "man", "bro" and others like them.
-    * But according to DICTIONARY they are gender neutral.
+    * According to the dictionary they are gender neutral.
         * Are masculinity and being male gender neutral and default for 
         everyone?
-* Do not be racist, albeist, anti-ABGILPQT+, classist, sexist, …
+* Do not be racist, albeist, anti-ABGILPQT+, classist, sexist etc.
     * In case you don't agree with this, please leave this channel and 
     [freenode until you agree their policies too.](http://freenode.net/policy.shtml#offtopic)
 * Don't log this channel publicly. 
 
 ## Getting help
 
-In case there is an channel emergency (abusive user, spammer…, there are 
+In case there is a channel emergency (abusive user, spammer etc.), there are 
 several ways to get help.
 
 * PM or highlight someone who is opped or on the access list which you 
@@ -50,7 +50,7 @@ can see with `/msg ChanServ access ##abgilpqt+ list`.
 * Just say `halp` or `/msg HalpBot halp ##abgilpqt+`.
 * Go to #freenode and tell that there is an issue at ##abgilpqt+ and tell 
 them what the issue is.
-    * `*!*@freenode/staff/*` has the op flags, so they are authorized to 
+    * Freenode staff have op flags, so they are authorized to 
     take action if required.
 
 ## Other things
@@ -58,7 +58,7 @@ them what the issue is.
 You might be asked to tell yourself about a little, but you don't have to 
 tell us anything you don't want to.
 
-* Mark NSFW and possibly Triggering links with `[NSFW]` or `[TW]` or 
+* Mark NSFW and possibly triggering links with `[NSFW]` or `[TW]` or 
 `[TRIGGER WARNING]`.
 * Please do not bring your own bots without permission.
     * `Limnoria` is used for channel management, `horo` (which actually 
