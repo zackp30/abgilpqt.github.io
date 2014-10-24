@@ -45,8 +45,9 @@ several ways to get help.
 can see with `/msg ChanServ access ##abgilpqt+ list`.
 * `/msg Limnoria channel alert ##abgilpqt+ <the issue>`
     * Do note that all ops might not be identified to Limnoria.
-* `/msg MemoServ sendops ##abgilpqt+ <the issue>`
-    * Note that this command requires you to be identified with NickServ!
+* `/ms sendops ##abgilpqt+ <the issue>`
+    * Note that this command requires you to be identified with NickServ
+      and have +A flag (if you are voiced, you most likely have it)!
 * Just say `halp` or `/msg HalpBot halp ##abgilpqt+`.
 * Go to #freenode and tell that there is an issue at ##abgilpqt+ and tell 
 them what the issue is.
