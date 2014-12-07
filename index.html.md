@@ -67,8 +67,6 @@ tell us anything you don't want to.
     have permission.
 * People who are here often around a week and talk are voiced.
 
-[![Visit our IRC channel](https://kiwiirc.com/buttons/chat.freenode.net/%23abgilpqt%2B.png)](https://kiwiirc.com/client/chat.freenode.net:+6697/##abgilpqt+)
-
 * * * * *
 
 Do you notice something wrong with these guidelines? [Send us a pull request!](https://github.com/abgilpqt/abgilpqt.github.io/blob/master/index.html.md)
