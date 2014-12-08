@@ -16,32 +16,34 @@
 
 Welcome. These are the guidelines of [\#\#abgilpqt+ at freenode](ircs://chat.freenode.net:6697/##abgilpqt+).
 
-Everyone is welcome as long as they are respectful. This includes also 
-non-ABGILPQT+ people in case they want to help or have friend or relative 
+Everyone is welcome as long as they are respectful. This includes also
+non-ABGILPQT+ people in case they want to help or have friend or relative
 who is ABGILPQT+ etc.
 
-Oh and **ABGILPQT+ means Aces, Bi\*, Gays, Intersex, Lesbians, Pan\*, Queers, Trans\* and everyone else.**
+Oh and **ABGILPQT+ means Aces, Bi\*, Gays, Intersex, Lesbians, Pan\*,
+Queers, Trans\* and everyone else.**
 
 ## Be respectful
 
 * Please don't misgender people.
     * If you don't know what pronouns to use, please use [gender neutral ones.](http://en.wikipedia.org/wiki/Gender-specific_and_gender-neutral_pronouns#Alternatives_to_generic_he)
     * See also [our pronouns.](https://etherpad.fr/p/pronouns_abgilpqt+)
-    * This also includes words like "guy", "man", "bro" and others like them.
+    * This also includes words like "guy", "man", "bro" and others like
+      them.
         * According to the dictionary they are gender neutral.
-            * Are masculinity and being male gender neutral and default 
+            * Are masculinity and being male gender neutral and default
               for everyone?
-* Do not be racist, albeist, anti-ABGILPQT+, classist, sexist etc.
-    * In case you don't agree with this, please leave this channel and 
+* Do not be racist, albeist, anti-ABGILPQT+, classist, sexist etc
+    * In case you don't agree with this, please leave this channel and
     [freenode until you agree their policies too.](http://freenode.net/policy.shtml#offtopic)
-* Don't log this channel publicly. 
+* Don't log this channel publicly.
 
 ## Getting help
 
-In case there is a channel emergency (abusive user, spammer etc.), there 
+In case there is a channel emergency (abusive user, spammer etc.), there
 are several ways to get help.
 
-* PM or highlight someone who is opped or on the access list which you 
+* PM or highlight someone who is opped or on the access list which you
 can see with `/msg ChanServ access ##abgilpqt+ list`.
 * `/msg Limnoria channel alert ##abgilpqt+ <the issue>`
     * Do note that all ops might not be identified to Limnoria.
@@ -58,10 +60,10 @@ can see with `/msg ChanServ access ##abgilpqt+ list`.
 You might be asked to tell yourself about a little, but you don't have to
 tell us anything you don't want to.
 
-* Mark NSFW and possibly triggering links with `[NSFW]` or `[TW]` or 
+* Mark NSFW and possibly triggering links with `[NSFW]` or `[TW]` or
   `[TRIGGER WARNING]`.
 * Please do not bring your own bots without permission.
-    * `Limnoria` is used for channel management, `horo` (which actually 
+    * `Limnoria` is used for channel management, `horo` (which actually
     is normal irssi with LastFM script) have permission.
 * People who are regulars on the channel are voiced if they have talked
   about themselves and haven't had (behaviournal) issues.
