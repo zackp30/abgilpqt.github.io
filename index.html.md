@@ -63,7 +63,7 @@ tell us anything you don't want to.
 * Mark NSFW and possibly triggering links with `[NSFW]` or `[TW]` or
   `[TRIGGER WARNING]`.
 * Please do not bring your own bots without permission.
-    * `Limnoria` is used for channel management, `horo` (which actually
+    * `Limnoria` is used for channel management and `horo` (which actually
     is normal irssi with LastFM script) have permission.
 * People who are regulars on the channel are voiced if they have talked
   about themselves and haven't had (behaviournal) issues.
