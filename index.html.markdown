@@ -77,4 +77,3 @@ Do you notice something wrong with these guidelines? [Send us a pull request!](h
 * * * * *
 </body>
 </html>
-<!-- vim : set ft=markdown-->

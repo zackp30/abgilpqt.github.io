@@ -3,6 +3,6 @@ abgilpqt.github.io
 
 The homepage of ##abgilpqt+ at freenode.
 
-To convert .html.md to .html, run 
+To convert .html.markdown to .html, run
 
-> `pandoc -i index.html.md -o index.html`
+> `pandoc -i index.html.markdown -o index.html`
