@@ -1,7 +1,7 @@
 abgilpqt.github.io
 ==================
 
-The homepage of ##abgilpqt+ at freenode.
+The homepage of ##abgilpqt+ on freenode.
 
 To convert .html.markdown to .html, run
 

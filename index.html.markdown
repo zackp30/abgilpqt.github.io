@@ -27,7 +27,7 @@ Queers, Trans\* and everyone else.**
     * If you don't know what pronouns to use, please use [gender neutral ones](http://en.wikipedia.org/wiki/Gender-specific_and_gender-neutral_pronouns#Alternatives_to_generic_he).
     * See also [our pronouns](https://etherpad.fr/p/pronouns_abgilpqt+).
     * This also includes words like "guy", "man", "bro" and others like
-      them.
+      them, even if the dictionary lists them as being gender-neutral.
 * Do not be racist, albeist, anti-ABGILPQT+, classist, sexist etc
     * In case you don't agree with this, please leave this channel and
     [freenode until you agree their policies too](http://freenode.net/policy.shtml#offtopic).
@@ -41,7 +41,7 @@ are several ways to get help.
 * PM or highlight someone who is opped or on the access list which you
 can see with `/msg ChanServ access ##abgilpqt+ list`.
 * `/msg Limnoria channel alert ##abgilpqt+ <the issue>`
-    * Note that all ops might not be identified to Limnoria.
+    * Note that not all ops might be identified to Limnoria.
 * `/ms sendops ##abgilpqt+ <the issue>`
     * Note that this command requires you to be identified with NickServ
       and have +A flag (if you are voiced, you most likely have it)!
