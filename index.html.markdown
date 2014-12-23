@@ -70,7 +70,7 @@ tell us anything you don't want to.
           `/mode ##abgilpqt+ +q`. If you are identified to services,
           this doesn't apply to you.
             * You can see if you are identified by running
-              `/whois yournick`. It should have line telling
+              `/whois yournick`. It should have a line telling
               `yournick is logged in as youraccountname`.
 
 * * * * *
