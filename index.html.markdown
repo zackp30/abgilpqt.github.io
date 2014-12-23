@@ -65,6 +65,13 @@ tell us anything you don't want to.
   about themselves and haven't had (behaviournal) issues.
     * Op consideration takes priority in voicing questions.
     * [Please also register your nick so we can voice you](https://freenode.net/faq.shtml#userregistration)!
+        * Note that sometimes we have quiet set on unidentified users. To
+          see if that is the case check if `$~a` appears in
+          `/mode ##abgilpqt+ +q`. If you are identified to services,
+          this doesn't apply to you.
+            * You can see if you are identified by running
+              `/whois yournick`. It should have line telling
+              `yournick is logged in as youraccountname`.
 
 * * * * *
 
