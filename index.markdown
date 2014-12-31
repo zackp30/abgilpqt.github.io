@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8" />
-<meta name="description" content="Code of Conduct and guidelines of ##abgilpqt+ at freenode" />
-<meta name="author" content="##abgilpqt+ ops" />
-<link rel="canonical" href="https://abgilpqt.github.io/">
-<title>\#\#abgilpqt+ at freenode</title>
-<link rel="stylesheet" type="text/css" href="css.css" />
-</head>
-<body>
+---
+layout: default
+---
 
 Welcome. These are the guidelines of [\#\#abgilpqt+ at freenode](ircs://chat.freenode.net:6697/##abgilpqt+).
 
@@ -70,11 +62,3 @@ tell us anything you don't want to.
             * You can see if you are identified by running
               `/whois yournick`. It should have a line telling
               `yournick is logged in as youraccountname`.
-
-* * * * *
-
-Do you notice something wrong with these guidelines? [Send us a pull request](https://github.com/abgilpqt/abgilpqt.github.io/blob/master/index.html.markdown)!
-
-* * * * *
-</body>
-</html>
