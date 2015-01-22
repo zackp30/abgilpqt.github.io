@@ -14,13 +14,13 @@ Queers, Trans\* and everyone else.**
 ## Be respectful
 
 * Do not misgender people.
-    * If you don't know what pronouns to use, please use [gender neutral ones](http://en.wikipedia.org/wiki/Gender-specific_and_gender-neutral_pronouns#Alternatives_to_generic_he).
+    * If you don't know what pronouns to use, please use [gender neutral ones](https://en.wikipedia.org/wiki/Gender-specific_and_gender-neutral_pronouns#Alternatives_to_generic_he).
     * See also [our pronouns](https://etherpad.fr/p/pronouns_abgilpqt+).
     * This also includes words like "guy", "man", "bro" and others like
       them, even if the dictionary lists them as being gender-neutral.
 * Do not be racist, albeist, anti-ABGILPQT+, classist, sexist etc
     * In case you don't agree with this, please leave this channel and
-    [freenode until you agree their policies too](http://freenode.net/policy.shtml#offtopic).
+    [freenode until you agree their policies too](https://freenode.net/policy.shtml#offtopic).
 * Do not publicly log this channel.
 
 ## Getting help
